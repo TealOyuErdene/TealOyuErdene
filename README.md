@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oyu Erdene</h1>
+<h1 align="center">Hi, I'm Oyu Erdene</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tealoyuerdene&label=Profile%20views&color=0e75b6&style=flat" alt="tealoyuerdene" /> </p>
 
 - 🔭 I’m currently working on [Sparkle](https://dian-client-iota.vercel.app)
